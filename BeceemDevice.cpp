@@ -1296,3 +1296,6 @@ BeceemDevice::GetLinkState(ether_link_state *linkState)
 
 	return B_OK;
 }
+
+
+http://cgit.haiku-os.org/haiku/plain/src/add-ons/kernel/drivers/network/wwan/usb_beceemwmx/BeceemDevice.cpp
